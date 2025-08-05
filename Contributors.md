@@ -1306,6 +1306,7 @@ Hager
 - [Yogesh Joga యోగేష్ జోగ](https://github.com/yogeshjoga)
 - [Santhosh Kumar Karthikeyan](https://github.com/santhosh-kumar-karthikeyan)
 - [Nandana Radhakrishnan](https://github.com/NandanaRadhakrishnan)
+- [Jonathan Ware](https://github.com/xetherealxdragonx)
 - [Cristian Paul Castañeda](https://github.com/crispaulcastaneda)
 - [Muny Phalla](https://github.com/lalaphalla)
 - [Makwana Chirag](https://github.com/makwana-chirag)
